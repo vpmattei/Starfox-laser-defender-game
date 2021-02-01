@@ -1,0 +1,97 @@
+fileFormatVersion: 2
+guid: f11c30394f0a3de43be876fb31ac4cf6
+timeCreated: 1470616851
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Airwing(Turn)_0
+    21300002: Airwing(Turn)_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Airwing(Turn)_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 258
+        width: 192
+        height: 138
+      alignment: 9
+      pivot: {x: 0.46648887, y: 0.4999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.565865, y: 69.00003}
+        - {x: -89.565865, y: -1.9999695}
+        - {x: -89.565865, y: -44.99997}
+        - {x: -26.565865, y: -68.99997}
+        - {x: 37.434135, y: -68.99997}
+        - {x: 102.434135, y: -41.99997}
+        - {x: 102.434135, y: -21.99997}
+        - {x: 36.434135, y: 69.00003}
+    - name: Airwing(Turn)_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 192
+        height: 138
+      alignment: 9
+      pivot: {x: 0.530775, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.908798, y: 69}
+        - {x: -101.9088, y: -22}
+        - {x: -101.9088, y: -56}
+        - {x: -55.9088, y: -69}
+        - {x: 24.091202, y: -69}
+        - {x: 90.0912, y: -35}
+        - {x: 90.0912, y: -24}
+        - {x: 8.091202, y: 69}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

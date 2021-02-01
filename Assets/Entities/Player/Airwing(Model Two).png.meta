@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: 73121d6f817c05c4ab58ce8ead2ffa16
+timeCreated: 1470916666
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Airwing(Model Two)_0
+    21300002: Airwing(Model Two)_1
+    21300004: Airwing(Model Two)_2
+    21300006: Airwing(Model Two)_3
+    21300008: Airwing(Model Two)_4
+    21300010: Airwing(Model Two)_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Airwing(Model Two)_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 522
+        width: 102
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 81}
+        - {x: -51, y: 9}
+        - {x: -51, y: -81}
+        - {x: 51, y: -81}
+        - {x: 51, y: -15}
+        - {x: 49, y: -2}
+        - {x: 36, y: 62}
+        - {x: 22, y: 81}
+    - name: Airwing(Model Two)_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 528
+        width: 138
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -78}
+        - {x: 69, y: -78}
+        - {x: 69, y: -30}
+        - {x: 51, y: 59}
+        - {x: 12, y: 78}
+        - {x: -15, y: 78}
+        - {x: -69, y: -18}
+    - name: Airwing(Model Two)_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 300
+        width: 150
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75, y: -69}
+        - {x: 75, y: -69}
+        - {x: 75, y: -20}
+        - {x: 48, y: 51}
+        - {x: 37, y: 69}
+        - {x: -9, y: 69}
+        - {x: -75, y: -8}
+    - name: Airwing(Model Two)_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 300
+        width: 186
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 69}
+        - {x: -10, y: 69}
+        - {x: -93, y: -26}
+        - {x: -93, y: -65}
+        - {x: -71, y: -69}
+        - {x: 93, y: -69}
+        - {x: 93, y: -31}
+        - {x: 55, y: 58}
+    - name: Airwing(Model Two)_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 210
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 69}
+        - {x: -105, y: -15}
+        - {x: -105, y: -47}
+        - {x: -39, y: -69}
+        - {x: 91, y: -69}
+        - {x: 105, y: -55}
+        - {x: 105, y: 27}
+        - {x: 41, y: 69}
+    - name: Airwing(Model Two)_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 54
+        width: 222
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 69}
+        - {x: -72, y: 61}
+        - {x: -111, y: -15}
+        - {x: -111, y: -69}
+        - {x: 56, y: -69}
+        - {x: 111, y: -46}
+        - {x: 111, y: -25}
+        - {x: 16, y: 69}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

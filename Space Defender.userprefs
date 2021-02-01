@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Entities\Player\PlayerController.cs">
+    <Files>
+      <File FileName="Assets\Entities\Player\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Entities\Player\GreenLaser.cs" Line="1" Column="1" />
+      <File FileName="Assets\Entities\Enemies\EnemyScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Entities\Enemies\RedLaser.cs" Line="1" Column="1" />
+      <File FileName="Assets\Prefabs\Coin\CoinScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Prefabs\Coin\CoinsKeeper.cs" Line="1" Column="1" />
+      <File FileName="Assets\{Scripts}\ScoreKeeper.cs" Line="1" Column="1" />
+      <File FileName="Assets\Prefabs\Asteroids\DestroyByContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\{Scripts}\StopAnimation.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

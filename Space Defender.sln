@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C0F45102-F302-6236-ADB8-73EB307B99FF}") = "Space Defender", "Assembly-CSharp.csproj", "{8BEBBDD9-AB20-AB52-2C7C-B318659E42F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BEBBDD9-AB20-AB52-2C7C-B318659E42F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BEBBDD9-AB20-AB52-2C7C-B318659E42F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BEBBDD9-AB20-AB52-2C7C-B318659E42F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BEBBDD9-AB20-AB52-2C7C-B318659E42F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
