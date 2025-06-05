@@ -1,23 +1,36 @@
 fileFormatVersion: 2
 guid: 73121d6f817c05c4ab58ce8ead2ffa16
-timeCreated: 1470916666
-licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: Airwing(Model Two)_0
-    21300002: Airwing(Model Two)_1
-    21300004: Airwing(Model Two)_2
-    21300006: Airwing(Model Two)_3
-    21300008: Airwing(Model Two)_4
-    21300010: Airwing(Model Two)_5
-  serializedVersion: 2
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Airwing(Model Two)_0
+  - first:
+      213: 21300002
+    second: Airwing(Model Two)_1
+  - first:
+      213: 21300004
+    second: Airwing(Model Two)_2
+  - first:
+      213: 21300006
+    second: Airwing(Model Two)_3
+  - first:
+      213: 21300008
+    second: Airwing(Model Two)_4
+  - first:
+      213: 21300010
+    second: Airwing(Model Two)_5
+  externalObjects: {}
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -25,38 +38,97 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -2
   maxTextureSize: 2048
   textureSettings:
-    filterMode: -1
+    serializedVersion: 2
+    filterMode: 1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
-  allowsAlphaSplitting: 0
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
+  spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
+    serializedVersion: 2
     sprites:
-    - name: Airwing(Model Two)_0
+    - serializedVersion: 2
+      name: Airwing(Model Two)_0
       rect:
         serializedVersion: 2
         x: 72
@@ -66,16 +138,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -16, y: 81}
-        - {x: -51, y: 9}
-        - {x: -51, y: -81}
-        - {x: 51, y: -81}
-        - {x: 51, y: -15}
-        - {x: 49, y: -2}
-        - {x: 36, y: 62}
-        - {x: 22, y: 81}
-    - name: Airwing(Model Two)_1
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Airwing(Model Two)_1
       rect:
         serializedVersion: 2
         x: 300
@@ -85,15 +160,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -69, y: -78}
-        - {x: 69, y: -78}
-        - {x: 69, y: -30}
-        - {x: 51, y: 59}
-        - {x: 12, y: 78}
-        - {x: -15, y: 78}
-        - {x: -69, y: -18}
-    - name: Airwing(Model Two)_2
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Airwing(Model Two)_2
       rect:
         serializedVersion: 2
         x: 48
@@ -103,15 +182,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -75, y: -69}
-        - {x: 75, y: -69}
-        - {x: 75, y: -20}
-        - {x: 48, y: 51}
-        - {x: 37, y: 69}
-        - {x: -9, y: 69}
-        - {x: -75, y: -8}
-    - name: Airwing(Model Two)_3
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Airwing(Model Two)_3
       rect:
         serializedVersion: 2
         x: 276
@@ -121,16 +204,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 44, y: 69}
-        - {x: -10, y: 69}
-        - {x: -93, y: -26}
-        - {x: -93, y: -65}
-        - {x: -71, y: -69}
-        - {x: 93, y: -69}
-        - {x: 93, y: -31}
-        - {x: 55, y: 58}
-    - name: Airwing(Model Two)_4
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Airwing(Model Two)_4
       rect:
         serializedVersion: 2
         x: 18
@@ -140,16 +226,19 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -10, y: 69}
-        - {x: -105, y: -15}
-        - {x: -105, y: -47}
-        - {x: -39, y: -69}
-        - {x: 91, y: -69}
-        - {x: 105, y: -55}
-        - {x: 105, y: 27}
-        - {x: 41, y: 69}
-    - name: Airwing(Model Two)_5
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Airwing(Model Two)_5
       rect:
         serializedVersion: 2
         x: 258
@@ -159,17 +248,39 @@ TextureImporter:
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -30, y: 69}
-        - {x: -72, y: 61}
-        - {x: -111, y: -15}
-        - {x: -111, y: -69}
-        - {x: 56, y: -69}
-        - {x: 111, y: -46}
-        - {x: 111, y: -25}
-        - {x: 16, y: 69}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
-  spritePackingTag: 
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Airwing(Model Two)_0: 21300000
+      Airwing(Model Two)_1: 21300002
+      Airwing(Model Two)_2: 21300004
+      Airwing(Model Two)_3: 21300006
+      Airwing(Model Two)_4: 21300008
+      Airwing(Model Two)_5: 21300010
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
